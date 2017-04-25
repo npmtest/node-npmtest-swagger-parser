@@ -1,22 +1,22 @@
 <svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="302" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 07:51:37 +0000  3359483 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 07:51:37 +0000     4216 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 07:51:37 +0000     1082 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 07:51:37 +0000     6223 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 07:51:37 +0000   820651 bytes  dist/swagger-parser.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 07:51:37 +0000   987691 bytes  dist/swagger-parser.js.map</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 07:51:37 +0000   362535 bytes  dist/swagger-parser.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 07:51:37 +0000  1118293 bytes  dist/swagger-parser.min.js.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 07:51:37 +0000     6592 bytes  lib/index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 07:51:37 +0000      563 bytes  lib/options.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 07:51:37 +0000      130 bytes  lib/promise.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 07:51:37 +0000      442 bytes  lib/util.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 07:51:37 +0000     1754 bytes  lib/validate-schema.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 07:51:37 +0000     9768 bytes  lib/validate-spec.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 07:51:37 +0000     2965 bytes  package.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 07:51:37 +0000      505 bytes  swagger-parser.sublime-project</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 07:51:37 +0000    36073 bytes  swagger-parser.sublime-workspace</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:38:25 +0000  3361349 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:38:25 +0000     4216 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:38:25 +0000     1082 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:38:25 +0000     6223 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:38:25 +0000   820651 bytes  dist/swagger-parser.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:38:25 +0000   987691 bytes  dist/swagger-parser.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:38:25 +0000   362535 bytes  dist/swagger-parser.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:38:25 +0000  1118293 bytes  dist/swagger-parser.min.js.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:38:25 +0000     6592 bytes  lib/index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:38:25 +0000      563 bytes  lib/options.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:38:25 +0000      130 bytes  lib/promise.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:38:25 +0000      442 bytes  lib/util.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:38:25 +0000     1754 bytes  lib/validate-schema.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:38:25 +0000     9768 bytes  lib/validate-spec.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:38:25 +0000     4831 bytes  package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:38:25 +0000      505 bytes  swagger-parser.sublime-project</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:38:25 +0000    36073 bytes  swagger-parser.sublime-workspace</tspan>
 </text>
 </svg>
